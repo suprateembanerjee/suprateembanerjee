@@ -19,7 +19,7 @@
 - 🚀Transformers 🚀RNNs 🚀Torch
 
 ### Creating ✨[Object Occlusion System](https://github.com/suprateembanerjee/Object-Occlusion)✨ to hide people from videos
-- [YOLOv7](https://github.com/WongKinYiu/yolov7)-based detection and background imaging pipeline created to occlude people from video footage with a focus on privacy
+- [YOLOv7](https://github.com/WongKinYiu/yolov7)-based detection and background imaging pipeline created with a focus on privacy
 - 🚀CNNs 🚀Torch 🔭OpenCV
   
 ### Training ✨Image Segmentation✨ models at [Nimblebox](https://nimblebox.ai)
