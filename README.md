@@ -10,7 +10,7 @@
 - Langchain-based containerized full-stack RAG pipeline for querying personal emails
 - 🚀Transformers 🍃Mongo 🍃Pinecone 🔭Flask 🔭Docker 🎭React
   
-### Creating ✨[English to Spanish Language Translator](https://github.com/suprateembanerjee/English-Spanish-Translator)✨
+### Creating a✨[English to Spanish Language Translator](https://github.com/suprateembanerjee/English-Spanish-Translator)✨
 - Transformer trained from scratch in Keras for the purpose of translating natural language
 - 🚀Transformers 🚀Keras 🔭Flask 🔭Docker 🎭React
   
@@ -18,7 +18,7 @@
 - [Temporal Fusion Transformer](https://blog.research.google/2021/12/interpretable-deep-learning-for-time.html) trained on large volumes of work-order data to predict demand
 - 🚀Transformers 🚀RNNs 🚀Torch
 
-### Creating ✨[Object Occlusion System](https://github.com/suprateembanerjee/Object-Occlusion)✨ to hide people from videos
+### Creating a✨[Object Occlusion System](https://github.com/suprateembanerjee/Object-Occlusion)✨ to hide people from videos
 - [YOLOv7](https://github.com/WongKinYiu/yolov7)-based detection and background imaging pipeline created with a focus on privacy
 - 🚀CNNs 🚀Torch 🔭OpenCV
   
