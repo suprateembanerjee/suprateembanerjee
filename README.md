@@ -30,7 +30,7 @@
 - ⚡Behavioral Cloning, ⚡Lane Tracking, ⚡Particle Filters, ⚡Extended Kalman Filters, ⚡Motion Planning
 - 🚀CNNs 🚀Keras 🔭C++ 🔭OpenCV ⭐Autonomous Vehicles
 
-### Training Movie ✨Recommendation Engine✨ at [Objectsol](https://objectsol.in)
+### Training ✨Movie Recommendation Engine✨ at [Objectsol](https://objectsol.in)
 - Java-based movie recommendation engine using Weka, trained on MovieLens1M
 - 🚀Recommenders 🔭Java 🔭Weka
 
