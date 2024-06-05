@@ -6,6 +6,10 @@
 
 ## Stuff I have loved working with in the past:
 
+### Developing ✨[Gig Match](https://github.com/suprateembanerjee/Job-Search)✨
+- BM25F (weighted BM25) + Binary-Quantized HNSW-Indexed Hybrid Multi-stage Retrieval pipeline, Llama3.7b-based knowledge extraction + validation pipelines 
+- 🚀HybridRAG 🚀 🍃Weaviate 🎭Streamlit
+  
 ### Building ✨[Golden Retriever](https://github.com/suprateembanerjee/Golden-Retriever)✨
 - Langchain-based containerized full-stack RAG pipeline for querying personal emails
 - 🚀Transformers 🍃Mongo 🍃Pinecone 🔭Flask 🔭Docker 🎭React
