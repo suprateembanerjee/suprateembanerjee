@@ -1,6 +1,6 @@
 # Hey everyone! I am Suprateem, welcome to my page!
 
-🌱 I’m currently learning about Stable Diffusion, MLOps, GANs, Foundation Models
+🌱 I’m currently tinkering with agentic reasoning and retrieval systems.
 
 ⚡ Fun fact: I've been to Mount Everest Base Camp [Photobook here](http://tinyurl.com/everest-photobook)
 
