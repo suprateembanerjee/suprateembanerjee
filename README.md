@@ -1,46 +1,78 @@
-# Hey everyone! I am Suprateem, welcome to my page!
+# Hello! I'm Suprateem.
 
-🌱 I’m currently tinkering with agentic reasoning and retrieval systems.
+I’m currently tinkering with agentic reasoning, retrieval systems, and context engineering. I read approx 5 research papers a week.
 
 ⚡ Fun fact: I've been to Mount Everest Base Camp [Photobook here](http://tinyurl.com/everest-photobook)
 
 ## Stuff I have loved working with in the past:
 
-### Developing ✨[Gig Match](https://github.com/suprateembanerjee/Job-Search)✨
+### 2k25: [Building something cool]
+- More details to come soon
+
+### 2k25: [Pixie](https://github.com/suprateembanerjee/Pixie)
+- Started working on this parallel to [LMStudio](https://lmstudio.ai) and before [Ollama](https://ollama.com) UI launched
+- Addressed needs for easy access to ollama models as a drop in behavioral replacement for OpenAI ChatGPT for privacy focused tasks requiring local processing
+- Streamlit
+
+### 2k24: [Gig Match](https://github.com/suprateembanerjee/Job-Search)
 - BM25F (weighted BM25) + Binary-Quantized HNSW-Indexed Hybrid Multi-stage Retrieval pipeline, Llama3.7b-based knowledge extraction + validation pipelines 
-- 🚀HybridRAG 🍃Weaviate 🎭Streamlit
+- Hybrid Retrieval
+- Weaviate
+- Streamlit
   
-### Building ✨[Golden Retriever](https://github.com/suprateembanerjee/Golden-Retriever)✨
+### 2k24: [Golden Retriever](https://github.com/suprateembanerjee/Golden-Retriever)
 - Langchain-based containerized full-stack RAG pipeline for querying personal emails
-- 🚀Transformers 🍃Mongo 🍃Pinecone 🔭Flask 🔭Docker 🎭React
+- Transformers
+- Mongo
+- Pinecone
+- Flask
+- Docker
+- React
   
-### Creating a✨[English to Spanish Language Translator](https://github.com/suprateembanerjee/English-Spanish-Translator)✨
+### 2k23: [English to Spanish Language Translator](https://github.com/suprateembanerjee/English-Spanish-Translator)
 - Transformer trained from scratch in Keras for the purpose of translating natural language
-- 🚀Transformers 🚀Keras 🔭Flask 🔭Docker 🎭React
+- Transformers
+- Keras
+- Flask
+- Docker
+- React
   
-### ✨Time-Series forecasting✨ at [Schneider Electric](www.se.com)
+### 2k22: Time-Series forecasting at [Schneider Electric](www.se.com)
 - [Temporal Fusion Transformer](https://blog.research.google/2021/12/interpretable-deep-learning-for-time.html) trained on large volumes of work-order data to predict demand
-- 🚀Transformers 🚀RNNs 🚀Torch
+- Transformers
+- RNNs
+- Torch
 
-### Creating a✨[Object Occlusion System](https://github.com/suprateembanerjee/Object-Occlusion)✨ to hide people from videos
+### 2k22: [Object Occlusion System](https://github.com/suprateembanerjee/Object-Occlusion)
 - [YOLOv7](https://github.com/WongKinYiu/yolov7)-based detection and background imaging pipeline created with a focus on privacy
-- 🚀CNNs 🚀Torch 🔭OpenCV
+- CNNs
+- Torch
+- OpenCV
   
-### Training ✨Image Segmentation✨ models at [Nimblebox](https://nimblebox.ai)
+### 2k21: Training Image Segmentation models at [Nimblebox](https://nimblebox.ai)
 - [MaskRCNN](https://arxiv.org/abs/1703.06870) trained to segment manufactured products on a conveyor belt and chromatic consistency analysis
-- 🚀CNNs 🚀Keras
+- CNNs
+- Keras
 
-### Completing the ✨Self-Driving Car Engineer Nanodegree✨ from [Udacity](www.udacity.com)
-- ⚡Behavioral Cloning, ⚡Lane Tracking, ⚡Particle Filters, ⚡Extended Kalman Filters, ⚡Motion Planning
-- 🚀CNNs 🚀Keras 🔭C++ 🔭OpenCV ⭐Autonomous Vehicles
+### 2k21: [Udacity](www.udacity.com) Self-Driving Car Engineer Nanodegree
+- Behavioral Cloning
+- Lane Tracking
+- Particle Filters
+- Extended Kalman Filters
+- Motion Planning
+- CNNs
+- Keras
+- C++
+- OpenCV
 
-### Training ✨Movie Recommendation Engine✨ at [Objectsol](https://objectsol.in)
+### 2k19: Presenting a poster on Adversarial Attacks in Autonomous Vehicles at [Pycon India](https://www.python.org/events/python-events/845/)
+- Survey conducted on various types of adversarial attacks applicable to autonomous vehicles
+
+### 2k18: Training a Movie Recommendation Engine at [Objectsol](https://objectsol.in)
 - Java-based movie recommendation engine using Weka, trained on MovieLens1M
-- 🚀Recommenders 🔭Java 🔭Weka
-
-### Presenting a poster on ✨Adversarial Attacks in Autonomous Vehicles✨ at [Pycon India](https://www.python.org/events/python-events/845/)
-- Survey conducted on various types of adversarial attacks applicable to Autonomous systems
-- 🚀Adversarial Attacks ⭐Autonomous Vehicles
+- Recommenders
+- Java
+- Weka
 
 
 
